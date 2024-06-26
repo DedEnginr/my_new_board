@@ -1,0 +1,10 @@
+/dts-v1/;
+#include <custom/my_soc.dtsi>
+/ {
+	model = "my new board 2";
+	compatible = "custom,my_board_2";
+	
+	chosen {
+	
+	};
+};

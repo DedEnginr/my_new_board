@@ -1,0 +1,6 @@
+
+
+
+config BOARD_MY_BOARD
+	bool
+	select SOC_MY_SOC
